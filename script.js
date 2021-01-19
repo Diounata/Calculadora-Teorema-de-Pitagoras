@@ -10,11 +10,11 @@ function button_cateto() {
         <form>
         <div class="row">
             <div class="col">
-                <input type="text" class="form-control input-cateto" placeholder="Cateto">
+                <input type="number" class="form-control input-cateto" placeholder="Cateto">
             </div>
 
             <div class="col">
-                <input type="text" class="form-control input-hipotenusa" placeholder="Hipotenusa">
+                <input type="number" class="form-control input-hipotenusa" placeholder="Hipotenusa">
             </div>
         </div>
 
@@ -37,11 +37,11 @@ function button_hipotenusa() {
         <form>
         <div class="row">
             <div class="col">
-                <input type="text" class="form-control input-cateto_1" placeholder="Cateto 1">
+                <input type="number" class="form-control input-cateto_1" placeholder="Cateto 1">
             </div>
 
             <div class="col">
-                <input type="text" class="form-control input-cateto_2" placeholder="Cateto 2">
+                <input type="number" class="form-control input-cateto_2" placeholder="Cateto 2">
             </div>
         </div>
 
